@@ -1,5 +1,7 @@
 # nginx-http-oauth-module
 
+This module can be used for api checking, is similar like oauth 2 legged authentication.
+
 ## 1. Install Handlersocket
 
 https://github.com/DeNA/HandlerSocket-Plugin-for-MySQL
