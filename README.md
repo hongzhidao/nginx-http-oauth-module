@@ -1,6 +1,6 @@
 # nginx-http-oauth-module
 
-This module can be used for api checking, is similar like oauth 2 legged authentication.
+This module can be used for api authentication, is similar like oauth 2 legged authentication.
 
 ## 1. Install Handlersocket
 
